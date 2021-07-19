@@ -75,5 +75,5 @@ print_slow(" behind it")
 print()
 
 print_slow("Believe it or not, changing your choice is the correct answer 66% of the time! For more info https://en.wikipedia.org/wiki/Monty_Hall_problem")
-print_slow("For proof, (made by yours truly) have a look at my github: ")
+print_slow("For proof, (made by yours truly) have a look at my github: https://github.com/NathanPr03/MontyHall/blob/master/MontyHall/MontyHallSimulation.py")
 
